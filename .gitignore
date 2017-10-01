@@ -22,3 +22,6 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+# Ignore ruby-version file
+/.ruby-version
